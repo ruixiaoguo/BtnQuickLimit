@@ -10,3 +10,5 @@
 
 ## 这里我就使用runtime动态的为分类添加属性以便进行扩展操作
 
+## cocoapods集成方式
+        pod 'BtnQuickLimit'
